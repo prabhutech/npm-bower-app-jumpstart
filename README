@@ -1,0 +1,10 @@
+
+- Create package.json.
+- npm install grunt --save-dev
+- npm install grunt-contrib-jshint --save-dev
+- npm install grunt-contrib-uglify --save-dev
+
+- bower init
+
+Project setup instructions:
+- npm install
